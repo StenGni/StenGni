@@ -7,3 +7,9 @@
 🌱 In my free time, I enjoy [reading](https://www.goodreads.com/user/show/181661700-monika-s), sailing ⛵, indoor climbing/bouldering 🧗, and exploring the world with curiosity 🌍  
 
 Download My [CV](https://github.com/StenGni/Portfolio/blob/main/CV-09_2025.pdf)!
+
+### 🔭 Currently Working On
+- **Specialisation Project at BUas** – role of team leader, Data Scientist and Analytics Translator  
+- **Dutch Language Course** – progressing from A1 → A2  
+- **EU AI Act Fundamentals** – certification course on DataCamp
+
