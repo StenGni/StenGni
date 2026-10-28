@@ -13,3 +13,5 @@ Download My [CV](https://github.com/StenGni/Portfolio/blob/main/CV-09_2025.pdf)!
 - **Dutch Language Course** – 09/26-11/26 I am following a Language Course to improve my skills and achieve A2 in Dutch
 
 ### Last updates
+- **EU Agri-Hackathon** - 10/26
+- **Foundation Introduction to LangChain - Python** - 09/26
