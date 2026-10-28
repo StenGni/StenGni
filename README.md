@@ -14,4 +14,4 @@ Download My [CV](https://github.com/StenGni/Portfolio/blob/main/CV-09_2025.pdf)!
 
 ### Last updates
 - **EU Agri-Hackathon** - 10/26
-- **Foundation Introduction to LangChain - Python** - 09/26
+- [**Foundation: Introduction to LangChain - Python**](https://github.com/StenGni/Portfolio/blob/main/Foundation%20Introduction%20to%20LangChain%20-%20Python.pdf) - 09/26
